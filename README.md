@@ -1,8 +1,6 @@
 <h1 align="center" style="color:blue;">Opa eu sou Erick silva, programador junior front-end☕</h1>
 
-<div align="center"><br>
 <img height="300em" algin="right" src="https://cdn.discordapp.com/attachments/1036420102612074566/1036420148497764393/octocat-1667150298672.png"/>
-</div>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">

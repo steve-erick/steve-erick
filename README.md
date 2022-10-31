@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=100&color=0CB8F7FF&center=true&vCenter=true&width=435&lines=Olá+eu+sou+Erick+Silva+%F0%9F%96%90;Programador+front-end+junior+%E2%98%95" alt="Typing SVG" /></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=300&color=0CB8F7FF&center=true&vCenter=true&width=435&lines=Olá+eu+sou+Erick+Silva+%F0%9F%96%90;Tenho+17+anos+😄;Programador+front-end+junior+%E2%98%95;" alt="Typing SVG" /></a></div>
 
 <img height="300em" algin="right" src="https://cdn.discordapp.com/attachments/1036420102612074566/1036420148497764393/octocat-1667150298672.png"/>
 

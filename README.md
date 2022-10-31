@@ -46,5 +46,7 @@
   <h1 align="center" style="color:blue;">Grafico de Contribuições</h1>
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=steve-erick&bg_color=050505&color=00fbff&line=00ffee&point=00ffaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <h1 align="center" style="color:blue;">Visitantes</h1>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{steve-erick}/count.svg" /></p> 
 

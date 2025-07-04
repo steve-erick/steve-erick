@@ -1,4 +1,3 @@
-# 💫 About Me:
 # # 👋 Hi, I’m Erick Silva
 
 I’m a passionate **Junior Front-End Developer** focused on building intuitive and functional user interfaces. I’m actively looking for opportunities to grow and contribute to challenging projects.

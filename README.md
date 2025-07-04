@@ -1,40 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Olá+eu+sou+Erick+Silva+%F0%9F%96%90;Tenho+19+anos+😄;Programador+front-end+junior+%E2%98%95)](https://git.io/typing-svg)
+# 💫 About Me:
+# Hi, I'm Erick Silva 👋<br><br>I'm a passionate **Junior Front-End Developer** focused on building intuitive and functional user interfaces. I'm looking for opportunities to grow and contribute to challenging projects.<br><br>I have experience with JavaScript, Vue.js, HTML, CSS, and I'm always learning new technologies to deliver clean and efficient code.
 
-<div align="right">
-  <img height="300em" src="https://cdn.discordapp.com/attachments/1036420102612074566/1036420148497764393/octocat-1667150298672.png" alt="Octocat" />
-</div>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=steve-erick&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-erick&layout=compact&langs_count=7&theme=algolia" alt="Top Languages" />
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=steve-erick&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=steve-erick&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=steve-erick&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=steve-erick&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center" style="display: inline-block; text-align: left;">
-  <h2>Conhecimentos Gerais 🥇:</h2>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-  <h2>Outros Conhecimentos 🥈:</h2>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=steve-erick&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  <h2>Ferramentas 💻:</h2>
-  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+---
+[![](https://visitcount.itsvg.in/api?id=steve-erick&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  <h2>Estudando 📚:</h2>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-</div>
-
-<br />
-
-<h1 align="center" style="color:blue;">Gráfico de Contribuições</h1>
-
-<div align="center">
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=steve-erick&bg_color=050505&color=00fbff&line=00ffee&point=00ffaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

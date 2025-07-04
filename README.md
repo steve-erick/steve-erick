@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Olá+eu+sou+Erick+Silva+%F0%9F%96%90;Tenho+19+anos+😄;Programador+front-end+junior+%E2%98%95)](https://git.io/typing-svg)
 
 <div align="right">
   <img height="300em" src="https://cdn.discordapp.com/attachments/1036420102612074566/1036420148497764393/octocat-1667150298672.png" alt="Octocat" />

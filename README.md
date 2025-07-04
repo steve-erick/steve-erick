@@ -1,5 +1,9 @@
 # 💫 About Me:
-# Hi, I'm Erick Silva 👋<br><br>I'm a passionate **Junior Front-End Developer** focused on building intuitive and functional user interfaces. I'm looking for opportunities to grow and contribute to challenging projects.<br><br>I have experience with JavaScript, Vue.js, HTML, CSS, and I'm always learning new technologies to deliver clean and efficient code.
+# # 👋 Hi, I’m Erick Silva
+
+I’m a passionate **Junior Front-End Developer** focused on building intuitive and functional user interfaces. I’m actively looking for opportunities to grow and contribute to challenging projects.
+
+I have hands-on experience with **JavaScript**, **Vue.js**, **HTML**, **CSS**, and I’m always learning new technologies to deliver clean, efficient, and maintainable 
 
 
 # 💻 Tech Stack:

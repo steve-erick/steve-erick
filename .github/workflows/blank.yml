@@ -1,8 +1,7 @@
-name: Metrics
+name: Metrics (isocalendar only)
 
 on:
-  schedule: [{cron: "0 0 * * 1"}]  # toda segunda-feira
-  push: {branches: ["main"]}
+  schedule: [{cron: "0 0 * * 1"}]  # Atualiza toda segunda
   workflow_dispatch:
 
 jobs:
@@ -11,8 +10,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year

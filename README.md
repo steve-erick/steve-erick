@@ -4,7 +4,7 @@ I’m a passionate **Junior Front-End Developer** focused on building intuitive 
 
 I have hands-on experience with **JavaScript**, **Vue.js**, **HTML**, **CSS**, and I’m always learning new technologies to deliver clean, efficient, and maintainable 
 
-![Calendário GitHub](https://metrics.lecoq.io/steve-erick?template=classic&config.timezone=America%2FSao_Paulo&plugin=isocalendar&isocalendar.duration=full-year)
+![Calendário de Contribuições](./metrics.plugin.isocalendar.fullyear.svg)
 
 
 <!--/examples-->

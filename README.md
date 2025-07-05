@@ -15,8 +15,10 @@ I have hands-on experience with **JavaScript**, **Vue.js**, **HTML**, **CSS**, a
 ![](https://github-readme-stats.vercel.app/api?username=steve-erick&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=steve-erick&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=steve-erick&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Calendário de Contribuições](./metrics.svg)
-
+ <div>
+    <img src="./metrics.svg" alt="Calendário de Contribuições" width="300" />
+  </div>
+</div>
 
 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=steve-erick&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 

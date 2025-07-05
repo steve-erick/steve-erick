@@ -4,7 +4,7 @@ I’m a passionate **Junior Front-End Developer** focused on building intuitive 
 
 I have hands-on experience with **JavaScript**, **Vue.js**, **HTML**, **CSS**, and I’m always learning new technologies to deliver clean, efficient, and maintainable 
 
-![Calendário de Contribuições](./metrics.plugin.isocalendar.fullyear.svg)
+![Calendário de Contribuições](./metrics.svg)
 
 
 <!--/examples-->

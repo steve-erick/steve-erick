@@ -14,8 +14,8 @@ I have hands-on experience with **JavaScript**, **Vue.js**, **HTML**, **CSS**, a
 # 📊 GitHub Stats:
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=steve-erick&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
- ![](https://nirzak-streak-stats.vercel.app/?user=steve-erick&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=steve-erick&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ <img src="https://nirzak-streak-stats.vercel.app/?user=steve-erick&theme=dark&hide_border=false">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-erick&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
  <div>
     <img src="./metrics.svg" alt="Calendário de Contribuições" width="300" />
   </div>

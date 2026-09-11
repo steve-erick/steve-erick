@@ -289,15 +289,8 @@ current_focus = {
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=steve-erick&show_icons=true&theme=github_dark&hide_border=true&title_color=22C55E&icon_color=22C55E"
-/>
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-erick&layout=compact&theme=github_dark&hide_border=true&title_color=22C55E"
-/>
+
 
 </div>
 

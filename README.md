@@ -1,28 +1,381 @@
-# Hi, I’m Erick Silva
+<div align="center">
 
-I’m a passionate **Junior Front-End Developer** focused on building intuitive and functional user interfaces. I’m actively looking for opportunities to grow and contribute to challenging projects.
+# Hi, I'm Erick 👋
 
-I have hands-on experience with **JavaScript**, **Vue.js**, **HTML**, **CSS**, and I’m always learning new technologies to deliver clean, efficient, and maintainable 
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Backend+Python+Developer;Building+REST+APIs+and+Backend+Systems;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;Learning+AWS+and+Cloud+Architecture"
+  alt="Typing SVG"
+/>
 
-![Calendário de Contribuições](./metrics.svg)
+### Backend Developer focused on Python, APIs and scalable applications.
 
+<br>
 
-<!--/examples-->
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![OpenCv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) 
+<a href="https://erickcastro.dev">
+  <img src="https://img.shields.io/badge/Portfolio-erickcastro.dev-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=steve-erick&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=steve-erick&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=steve-erick&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://github.com/steve-erick">
+  <img src="https://img.shields.io/badge/GitHub-steve--erick-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=steve-erick&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=steve-erick&style=for-the-badge&color=22C55E"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=steve-erick&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=steve-erick&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a Software Development graduate focused on **backend engineering with Python**.
+
+I enjoy building APIs, designing relational databases and understanding how applications behave beyond the development environment.
+
+My main interests include:
+
+- Backend Engineering
+- REST APIs
+- Database Design
+- Cloud Computing
+- Software Architecture
+- Automation
+- Distributed Systems
+
+I'm currently deepening my knowledge of **FastAPI, PostgreSQL, Docker, CI/CD and AWS**, while building projects that are closer to real production environments.
+
+I also have experience with **Vue.js and frontend development**, which helps me understand the complete flow between interfaces, APIs and backend services.
+
+---
+
+## 🚀 Current Focus
+
+```text
+Backend Engineering
+│
+├── Python
+│   └── FastAPI
+│
+├── REST APIs
+│
+├── PostgreSQL
+│
+├── Testing
+│   └── Pytest
+│
+├── Docker
+│
+├── CI/CD
+│   └── GitHub Actions
+│
+└── Cloud
+    └── AWS
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,java,spring" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css,tailwind,bootstrap" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,nginx" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💼 Opportunity Platform</h3>
+
+<p>
+A job opportunity management platform built around real business rules and multiple user roles.
+</p>
+
+<b>Highlights</b>
+
+<ul>
+<li>Authentication and authorization</li>
+<li>Candidate profiles</li>
+<li>Job opportunities and applications</li>
+<li>Resume management</li>
+<li>Administrative dashboard</li>
+<li>Audit system</li>
+</ul>
+
+<b>Stack</b>
+
+<br><br>
+
+<code>Python</code>
+<code>PostgreSQL</code>
+<code>RBAC</code>
+<code>Authentication</code>
+
+<br><br>
+
+<b>Key learning:</b>
+
+Database modeling, backend architecture, authentication, business rules and production deployment.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤖 House of Robotics</h3>
+
+<p>
+E-commerce platform focused on robotics and electronic components.
+</p>
+
+<b>Highlights</b>
+
+<ul>
+<li>User authentication</li>
+<li>Product catalog</li>
+<li>Product search</li>
+<li>Shopping cart</li>
+<li>Backend API</li>
+<li>Product management</li>
+</ul>
+
+<b>Stack</b>
+
+<br><br>
+
+<code>Vue.js</code>
+<code>Flask</code>
+<code>SQLite</code>
+<code>JWT</code>
+
+<br><br>
+
+<a href="https://github.com/steve-erick/CasaDaRobotica">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>⚔️ BattleDev</h3>
+
+<p>
+Competitive programming platform concept where developers solve challenges and compete against each other.
+</p>
+
+<b>Concepts</b>
+
+<ul>
+<li>Developer battles</li>
+<li>Programming challenges</li>
+<li>Customizable characters</li>
+<li>Shared coding environment</li>
+<li>Competitive experience</li>
+</ul>
+
+<b>Stack</b>
+
+<br><br>
+
+<code>Vue.js</code>
+<code>JavaScript</code>
+<code>Web UI</code>
+<br><br>
+<a href="https://github.com/steve-erick/BattleDev">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💾 SaveIt</h3>
+
+<p>
+Application created to explore structured frontend and backend architecture.
+</p>
+
+<b>Focus</b>
+
+<ul>
+<li>Component architecture</li>
+<li>Backend integration</li>
+<li>Structured application development</li>
+</ul>
+
+<b>Stack</b>
+
+<br><br>
+
+<code>Angular</code>
+<code>Java</code>
+<code>Spring</code>
+
+<a href="https://github.com/steve-erick/SaveIt">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧠 Currently Learning
+
+```python
+current_focus = {
+    "backend": [
+        "Python",
+        "FastAPI",
+        "REST APIs",
+    ],
+
+    "database": [
+        "PostgreSQL",
+        "SQLAlchemy",
+    ],
+
+    "infrastructure": [
+        "Docker",
+        "AWS",
+        "CI/CD",
+    ],
+
+    "engineering": [
+        "Software Architecture",
+        "Testing",
+        "Distributed Systems",
+    ],
+}
+```
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=steve-erick&show_icons=true&theme=github_dark&hide_border=true&title_color=22C55E&icon_color=22C55E"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-erick&layout=compact&theme=github_dark&hide_border=true&title_color=22C55E"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=steve-erick&theme=github-dark-blue&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E"
+/>
+
+</div>
+
+---
+
+## 📅 Contribution Activity
+
+<div align="center">
+
+<img
+  src="./metrics.svg"
+  alt="GitHub contribution metrics"
+/>
+
+</div>
+
+---
+
+## 🎯 Engineering Interests
+
+<div align="center">
+
+`Backend Engineering`
+&nbsp; • &nbsp;
+`REST APIs`
+&nbsp; • &nbsp;
+`PostgreSQL`
+&nbsp; • &nbsp;
+`Cloud`
+&nbsp; • &nbsp;
+`Docker`
+&nbsp; • &nbsp;
+`Automation`
+&nbsp; • &nbsp;
+`Distributed Systems`
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm currently interested in opportunities involving:
+
+**Backend Development · Python · APIs · Cloud**
+
+<br>
+
+<div align="center">
+
+<a href="https://erickcastro.dev">
+  <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/steve-erick">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Building better systems, one commit at a time.
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&width=100&section=footer"
+/>
+
+</div>
